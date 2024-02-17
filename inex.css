@@ -664,7 +664,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 49%, rgba(255,67,64,1) 100%, rgb
     z-index: 9;
     padding-top: 0vh;
     height: 100vh;
-    width: 94%;
+    width: 100%;
     bottom: 0;
 }
 .footer-top>h5 {
